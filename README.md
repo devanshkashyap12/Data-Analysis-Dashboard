@@ -25,8 +25,16 @@ The main objective of this project is to analyze Netflix’s movies and TV shows
 -Create pivot tables based on the specific questions asked.    
 -Merge all pivot tables into a single dashboard and apply slicers to make it dynamic.  
 
-##DAshboard
+##Dashboard
 
 <img width="420" height="361" alt="Screenshot 2026-09-18 223157" src="https://github.com/user-attachments/assets/1c6a3709-cf9a-48a3-bb7a-9b613e2fdd65" />
 
+##Project Insight  
+
+-🎬 Movies dominate the Netflix catalog, accounting for roughly 60% of the content shown in the dashboard, while TV shows make up about 40%.
+-🌍 The United States and India appear among the major content-producing countries, with other countries such as the UK, Japan, and South Korea also represented.
+-🎭 Drama and comedy-related genres have substantial representation, alongside categories such as action, crime, documentaries, and international content.
+-📅 The yearly trend indicates a significant increase in content additions in recent years, suggesting strong expansion of Netflix's catalog over time.
+-🇮🇳 The presence of Indian titles and genres demonstrates the platform's international and regional content diversity.
+-🔎 The dashboard's filters for Show ID, Title, Country, and Genre make it possible to drill down from the overall catalog into individual titles and categories.
 
