@@ -29,6 +29,7 @@ The main objective of this project is to analyze Netflix’s movies and TV shows
 
 <img width="420" height="361" alt="Screenshot 2026-09-18 223157" src="https://github.com/user-attachments/assets/1c6a3709-cf9a-48a3-bb7a-9b613e2fdd65" />
 
+
 ##Project Insight  
 
 -🎬 Movies dominate the Netflix catalog, accounting for roughly 60% of the content shown in the dashboard, while TV shows make up about 40%.  
@@ -37,4 +38,8 @@ The main objective of this project is to analyze Netflix’s movies and TV shows
 -📅 The yearly trend indicates a significant increase in content additions in recent years, suggesting strong expansion of Netflix's catalog over time.   
 -🇮🇳 The presence of Indian titles and genres demonstrates the platform's international and regional content diversity.  
 -🔎 The dashboard's filters for Show ID, Title, Country, and Genre make it possible to drill down from the overall catalog into individual titles and categories.  
+
+##Final Conclusion:
+
+The dashboard shows that Netflix’s content library is diverse across countries and genres, with movies making up a larger share than TV shows. The U.S., India, and South Korea are among the prominently represented countries, while Drama and Comedy-related genres appear frequently. Overall, the dashboard provides a clear overview of Netflix’s content distribution by title, country, genre, and type.
 
