@@ -16,3 +16,5 @@ The main objective of this project is to analyze Netflix’s movies and TV shows
 -Which year had the highest number of Movies and TV Shows added?   
 -What is the distribution of Netflix content across different countries?   
 -Which genres are most common among Netflix titles?
+
+-Dashboard Interaction <a href="https://github.com/devanshkashyap12/Data-Analysis-Dashboard/blob/main/Screenshot%202026-09-18%20223157.png">View Dashboard</a>
