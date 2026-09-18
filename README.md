@@ -27,7 +27,7 @@ The main objective of this project is to analyze Netflix’s movies and TV shows
 
 ##Dashboard
 
-<img width="420" height="361" alt="Screenshot 2026-09-18 223157" src="https://github.com/user-attachments/assets/1c6a3709-cf9a-48a3-bb7a-9b613e2fdd65" />
+<img width="420" height="361" alt="Screenshot 2026-09-18 223157" src="https://github.com/user-attachments/assets/1c6a3709-cf9a-48a3-bb7a-9b613e2fdd65" />   
 
 
 ##Project Insight  
