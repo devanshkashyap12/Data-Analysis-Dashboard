@@ -14,7 +14,5 @@ The main objective of this project is to analyze Netflix’s movies and TV shows
 -Which genre has the highest number of titles?  
 -How has the number of Netflix titles changed over the years?  
 -Which year had the highest number of Movies and TV Shows added? 
-
-What is the distribution of Netflix content across different countries?
-
-Which genres are most common among Netflix titles?
+-What is the distribution of Netflix content across different countries?
+-Which genres are most common among Netflix titles?
