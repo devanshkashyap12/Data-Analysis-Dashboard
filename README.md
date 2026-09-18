@@ -2,3 +2,6 @@
 
 ## Project Objective           
 The main objective of this project is to analyze Netflix’s movies and TV shows data using Excel and create an interactive dashboard that provides useful insights about the Netflix content.
+
+## Dataset used  
+- <a href="https://github.com/devanshkashyap12/Data-Analysis-Dashboard/blob/main/Data%20Analysis%20dashboard.xlsx">Netflix-Data-Analysis</a>
