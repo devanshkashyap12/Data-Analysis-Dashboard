@@ -18,3 +18,9 @@ The main objective of this project is to analyze Netflix’s movies and TV shows
 -Which genres are most common among Netflix titles?
 
 -Dashboard Interaction <a href="https://github.com/devanshkashyap12/Data-Analysis-Dashboard/blob/main/Screenshot%202026-09-18%20223157.png">View Dashboard</a>
+
+##Process  
+-Verify data for missing values and anomalies, and resolve any issues.   
+-Ensure data is consistent and clean with respect to data type, format, and values.   
+-Create pivot tables based on the specific questions asked.    
+-Merge all pivot tables into a single dashboard and apply slicers to make it dynamic.  
