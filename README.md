@@ -6,7 +6,7 @@ The main objective of this project is to analyze Netflix’s movies and TV shows
 ## Dataset used  
 - <a href="https://github.com/devanshkashyap12/Data-Analysis-Dashboard/blob/main/Data%20Analysis%20dashboard.xlsx">Netflix-Dataset</a>
 
-## Questions KPI
+## Questions (KPI)
 -How many total movies and TV shows are in the dataset?  
 -How many Movies are available?  
 -How many TV Shows are available?   
@@ -24,3 +24,9 @@ The main objective of this project is to analyze Netflix’s movies and TV shows
 -Ensure data is consistent and clean with respect to data type, format, and values.   
 -Create pivot tables based on the specific questions asked.    
 -Merge all pivot tables into a single dashboard and apply slicers to make it dynamic.  
+
+##DAshboard
+
+<img width="420" height="361" alt="Screenshot 2026-09-18 223157" src="https://github.com/user-attachments/assets/1c6a3709-cf9a-48a3-bb7a-9b613e2fdd65" />
+
+
